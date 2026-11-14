@@ -40,12 +40,12 @@
 ## Структура проекта
 ├── Товарный_учет.xlsm # файл с макросами и UserForm
 ├── README.md # описание проекта
-└── screenshots/ # скриншоты интерфейса
-├── table.png # основное окно с таблицей
-├── userform.png # форма ввода товара
-├── discount.png # диалог расчёта скидки
-├── change.png # диалог изменения данных
-└── delete.png # диалог удаления
+└── screenshots/ # скриншоты интерфейса 
+├── table.png # основное окно с таблицей <img width="939" height="453" alt="image" src="https://github.com/user-attachments/assets/159b16ec-c161-4c56-9844-66302eee98b2" />
+├── userform.png # форма ввода товара <img width="738" height="559" alt="image" src="https://github.com/user-attachments/assets/d595e49b-0e9e-4b49-86a5-7873b4c7850b" />
+├── discount.png # диалог расчёта скидки <img width="584" height="244" alt="image" src="https://github.com/user-attachments/assets/7944dc34-757d-44df-a477-de82b7156edd" />
+├── change.png # диалог изменения данных <img width="584" height="247" alt="image" src="https://github.com/user-attachments/assets/309eb414-9c77-4c36-b81e-66944d5b1c92" />
+└── delete.png # диалог удаления <img width="584" height="250" alt="image" src="https://github.com/user-attachments/assets/99b900c5-a670-445b-98d1-0b1eede3a973" />
 
 text
 
